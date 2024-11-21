@@ -24,7 +24,8 @@ Hi there! I'm Rishikesh, a software engineer and security enthusiast with a stro
 
 ## 🏆 Certifications
 
-![Credly Badge](https://www.credly.com/badges/{your_badge_id}/image)
+[![Credly Badge](https://images.credly.com/size/220x220/images/ccc31fd3-5c29-429e-a368-a12af9d0350a.png)](https://www.credly.com/badges/ccc31fd3-5c29-429e-a368-a12af9d0350a)
+
 
 ---
 

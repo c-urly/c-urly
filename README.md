@@ -22,6 +22,10 @@ Hi there! I'm Rishikesh, a software engineer and security enthusiast with a stro
 ### **Technologies**
 - CMake, Pytest, Gtest, Pytorch, Google Protocol Buffers (gPB), YANG, gRPC, QEMU, Radare2, Git
 
+## 🏆 Certifications
+
+![Credly Badge](https://www.credly.com/badges/{your_badge_id}/image)
+
 ---
 
 ## 🌟 **Interests**

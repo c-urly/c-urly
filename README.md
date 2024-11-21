@@ -24,8 +24,9 @@ Hi there! I'm Rishikesh, a software engineer and security enthusiast with a stro
 
 ## 🏆 Certifications
 
-[![Certification Badge](risc-v-project-mentorship-mentee.1.png)](https://www.credly.com/badges/ccc31fd3-5c29-429e-a368-a12af9d0350a)
-
+<a href="https://www.credly.com/badges/ccc31fd3-5c29-429e-a368-a12af9d0350a">
+  <img src="risc-v-project-mentorship-mentee.1.png" alt="RISC-V Project Mentorship Mentee Badge" width="150" height="150">
+</a>
 
 ---
 

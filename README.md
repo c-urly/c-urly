@@ -7,8 +7,8 @@ Hi there! I'm Rishikesh, a software engineer and security enthusiast with a stro
 ---
 
 ## 📚 **Education**
-- **University of Florida** *(Aug 2023 – Present)*
-  - Master of Science in Computer Science (GPA: 3.78/4.0)
+- **University of Florida** 
+  - Master of Science in Computer Science (GPA: 3.84/4.0)
 - **Dhirubhai Ambani Institute of Information and Communication Technology** *(Aug 2015 – July 2019)*
   - Bachelor of Technology in Information and Communication Technology (CGPA: 7.31/10.0)
 
